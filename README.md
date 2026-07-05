@@ -18,4 +18,5 @@ default risk, with Logistic Regression outperforming across all evaluation metri
 Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib/Seaborn
 
 ## Files
-- `bnpl_analysis.ipynb` — full notebook with EDA, modelling, and evaluation
+- `defaultriskprediction.ipynb` — full notebook with EDA, modelling, and evaluation
+- I have added a ppt for better understanding of my project
